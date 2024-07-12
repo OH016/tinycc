@@ -27,4 +27,4 @@ jobs:
       uses: actions/upload-artifact@v4
       with:
         name: code
-        path: /*
+        path: /tinycc-mob
