@@ -24,7 +24,7 @@ jobs:
       run: make test
 
     - name: ls
-      run: spwd
+      run: pwd
 
     - name: Archive production artifacts
       uses: actions/upload-artifact@v4
