@@ -41,7 +41,7 @@ Documentation:
 
 makeinfo must be installed to compile the doc.  By default, tcc is
 installed in /usr/local/bin.  ./configure --help  shows configuration
-options.
+options。
 
 
 2) Introduction
